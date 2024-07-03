@@ -4,7 +4,7 @@
             "id": 1,
             "name": "Classic Cheeseburger",
             "description": "Esta hamburguesa clásica cuenta con una jugosa carne de res, queso cheddar derretido, lechuga crujiente, rodajas de tomate, pepinillos y cebolla, todo en un pan de ajonjolí.",
-            "image": "https://raw.githubusercontent.com/LentiniFacundo/data/main/burgers/classic-cheeseburger.webp",
+            "image": "https://raw.githubusercontent.com/LentiniFacundo/arrivinAPI/main/burgers/classic-cheeseburger.webp",
             "category": "burgers",
             "stock": 236,
             "price": 5500
@@ -13,7 +13,7 @@
             "id": 2,
             "name": "Bacon BBQ Burger",
             "description": "Una delicia ahumada, la Bacon BBQ Burger incluye una jugosa carne de res bañada en salsa barbacoa, tiras crujientes de tocino, queso cheddar derretido, aros de cebolla crujientes y lechuga fresca. Todo servido en un pan brioche tostado.",
-            "image": "https://raw.githubusercontent.com/LentiniFacundo/data/main/burgers/bacon-bbq-burger.webp",
+            "image": "https://raw.githubusercontent.com/LentiniFacundo/arrivinAPI/main/burgers/bacon-bbq-burger.webp",
             "category": "burgers",
             "stock": "126",
             "price": 5958
@@ -22,7 +22,7 @@
             "id": 3,
             "name": "Mushroom Swiss Burger",
             "description": "Esta hamburguesa gourmet presenta una carne de res cubierta con champiñones salteados y queso suizo cremoso. La adición de cebollas caramelizadas y un toque de alioli de ajo en un suave pan de papa eleva el perfil de sabor.",
-            "image": "https://github.com/LentiniFacundo/data/raw/main/burgers/mushroom-swiss-burger.webp",
+            "image": "https://github.com/LentiniFacundo/arrivinAPI/raw/main/burgers/mushroom-swiss-burger.webp",
             "category": "burgers",
             "stock": 327,
             "price": 6129
@@ -31,7 +31,7 @@
             "id": 4,
             "name": "Spicy Jalapeño Burger",
             "description": "Para los amantes del picante, la Spicy Jalapeño Burger incluye una carne de res con queso pepper jack, rodajas frescas de jalapeño, lechuga, tomate y mayonesa de chipotle picante. Todo en un pan de ajonjolí tostado.",
-            "image": "https://github.com/LentiniFacundo/data/raw/main/burgers/spicy-jalapeno-burger.webp",
+            "image": "https://github.com/LentiniFacundo/arrivinAPI/raw/main/burgers/spicy-jalapeno-burger.webp",
             "category": "burgers",
             "stock": 201,
             "price": 4690
@@ -40,7 +40,7 @@
             "id": 5,
             "name": "Avocado Bacon Burger",
             "description": "Una deliciosa variante con carne de res, queso cheddar derretido, rodajas frescas de aguacate, tocino crujiente, lechuga, tomate y mayonesa de lima. Todo en un pan integral.",
-            "image": "https://raw.githubusercontent.com/LentiniFacundo/data/main/burgers/avocado-bacon-burger.webp",
+            "image": "https://raw.githubusercontent.com/LentiniFacundo/arrivinAPI/main/burgers/avocado-bacon-burger.webp",
             "category": "burgers",
             "stock": 94,
             "price": 5125
@@ -49,7 +49,7 @@
             "id": 6,
             "name": "Bkue Cheese Burger",
             "description": "Esta hamburguesa está pensada para los amantes del queso azul, con carne de res, queso azul desmenuzado, cebollas caramelizadas, lechuga, tomate y un toque de glaseado balsámico. Todo servido en un pan brioche tostado.",
-            "image": "https://raw.githubusercontent.com/LentiniFacundo/data/main/burgers/blue-cheese-burger.webp",
+            "image": "https://raw.githubusercontent.com/LentiniFacundo/arrivinAPI/main/burgers/blue-cheese-burger.webp",
             "category": "burgers",
             "stock": 370,
             "price": 4999
@@ -58,7 +58,7 @@
             "id": 7,
             "name": "BBQ Pulled Pork Burger",
             "description": "Una opción contundente, esta hamburguesa incluye una carne de res cubierta con cerdo desmenuzado en salsa barbacoa, ensalada de col, pepinillos y queso cheddar derretido. Todo en un pan de pretzel tostado.",
-            "image": "https://raw.githubusercontent.com/LentiniFacundo/data/main/burgers/bbq-pulled-pork-burger.webp",
+            "image": "https://raw.githubusercontent.com/LentiniFacundo/arrivinAPI/main/burgers/bbq-pulled-pork-burger.webp",
             "category": "burgers",
             "stock": 150,
             "price": 6200
@@ -67,7 +67,7 @@
             "id": 8,
             "name": "Veggie Burger",
             "description": "Una deliciosa opción a base de plantas con una carne de vegetales hecha de frijoles negros y quinoa, cubierta con lechuga fresca, tomate, rodajas de aguacate, pepinillos y una salsa cremosa de hierbas. Todo en un pan integral tostado.",
-            "image": "https://github.com/LentiniFacundo/data/raw/main/burgers/veggie-burger.webp",
+            "image": "https://github.com/LentiniFacundo/arrivinAPI/raw/main/burgers/veggie-burger.webp",
             "category": "burgers",
             "stock": 100,
             "price": 6399
@@ -76,7 +76,7 @@
             "id": 9,
             "name": "Teriyaki Pineapple Burger",
             "description": "Una variante tropical con una carne de res glaseada en salsa teriyaki, rodaja de piña a la parrilla, lechuga, tomate y queso suizo. Terminada con un toque de mayonesa de wasabi en un suave pan de papa.",
-            "image": "https://github.com/LentiniFacundo/data/raw/main/burgers/teriyaki-pineapple-burger.webp",
+            "image": "https://github.com/LentiniFacundo/arrivinAPI/raw/main/burgers/teriyaki-pineapple-burger.webp",
             "category": "burgers",
             "stock": 320,
             "price": 5799
@@ -85,7 +85,7 @@
             "id": 10,
             "name": "Double Decker Burger",
             "description": "La máxima indulgencia, esta hamburguesa de doble nivel incluye dos carnes de res, doble queso cheddar, lechuga, tomate, pepinillos, cebolla y salsa especial. Todo servido en un pan de ajonjolí para una experiencia clásica.",
-            "image": "https://raw.githubusercontent.com/LentiniFacundo/data/main/burgers/double-decker-burger.webp",
+            "image": "https://raw.githubusercontent.com/LentiniFacundo/arrivinAPI/main/burgers/double-decker-burger.webp",
             "category": "burgers",
             "stock": 266,
             "price": 5999
