@@ -6,6 +6,7 @@ const path = require('path')
 const fs = require('fs')
 const db = JSON.parse(fs.readFileSync(path.join(__dirname, 'db.json')))
 const router = jsonServer.router(db)
+const cors = require('cors')
 
 server.use(middlewares)
 // Add this before server.use(router)
@@ -13,6 +14,8 @@ server.use(middlewares)
     '/api/*': '/$1',
     '/product/:resource/:id/show': '/:resource/:id'
 })) */
+
+server.use(cors())
 server.use(router)
 server.listen(3000, () => {
     console.log('JSON Server is running')
