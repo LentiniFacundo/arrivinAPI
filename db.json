@@ -48,7 +48,7 @@
         },
         {
             "id": 6,
-            "name": "Bkue Cheese Burger",
+            "name": "Blue Cheese Burger",
             "description": "Esta hamburguesa está pensada para los amantes del queso azul, con carne de res, queso azul desmenuzado, cebollas caramelizadas, lechuga, tomate y un toque de glaseado balsámico. Todo servido en un pan brioche tostado.",
             "image": "https://raw.githubusercontent.com/LentiniFacundo/arrivinAPI/main/burgers/blue-cheese-burger.webp",
             "category": "burgers",
