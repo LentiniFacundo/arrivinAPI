@@ -2,7 +2,7 @@
   "name": "arrivin-api",
   "version": "1.0.0",
   "description": "Products for arrivin",
-  "main": "index.js",
+  "main": "./api/server.js",
   "scripts": {
     "start": "node api/server.js"
   },
